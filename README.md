@@ -1,2 +1,2 @@
-# repositorio-de-practica-git-hub
+# repositorio-de-practica-git_hub
 repositorio de practica
