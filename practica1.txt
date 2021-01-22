@@ -1,4 +1,5 @@
 archivo de texto de practica correspondiente al curso de git hub de platzi
 mensaje para practricar push al respositorio local
-mensaje para practicar pull desde el repositorio remotoro
+mensaje para practicar pull desde el repositorio remoto
+  mensaje para practicar pull desde el respositorio remoto 2
 
