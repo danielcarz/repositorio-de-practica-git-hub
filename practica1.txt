@@ -3,4 +3,7 @@ mensaje para practricar push al respositorio local
 mensaje para practicar pull desde el repositorio remoto
   mensaje para practicar pull desde el respositorio remoto 2
 mensaje directo desde sistema operativo de windows intento numero 2
+mensaje directo desde sistema operativo de windows intento numero 2
+al parecer para realizar git push y git pull archivos  se debe enviar desde la consola del que se creo la carpeta ( S.O del que se creo la carpeta )...
+
 
